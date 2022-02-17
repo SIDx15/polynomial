@@ -1,5 +1,7 @@
 # polynomial
 
+npm start to run the project
+
 Tech stack used
 
 Node js
