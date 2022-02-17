@@ -1,10 +1,15 @@
 # polynomial
 
 Tech stack used
+
 Node js
+
 Mongoose
+
 ejs
+
 express
+
 Mongo db
 
 
