@@ -22,7 +22,7 @@ in the new section we can write a new code and save it by clicking on save
 
 ![Screenshot (478)](https://user-images.githubusercontent.com/86882483/154550958-bab4d871-44b7-4576-ae35-2293a1e3347d.png)
 
-in the display section we can see all our links and time they were last visited number of times they were visited! we can click on the links to directly see our codes as well
+in the display section we can see all our links and time they were last visited number of times they were visited! we can click on the links to directly see our codes as well all the links will be deleted once they are one day old
 
 ![Screenshot (479)](https://user-images.githubusercontent.com/86882483/154552145-e0c7a308-77cf-4f5c-9a16-15cb2083c3b8.png)
 
