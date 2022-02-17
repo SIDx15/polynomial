@@ -11,7 +11,7 @@ in the new section we can write a new code and save it by clicking on save
 
 in the display section we can see all our links and time they were last visited number of times they were visited! we can click on the links to directly see our codes as well
 
-[Screenshot (479)](https://user-images.githubusercontent.com/86882483/154551260-8b34a55d-6c10-4f50-9a48-6e1b16c05fa9.png)
+![Screenshot (479)](https://user-images.githubusercontent.com/86882483/154552145-e0c7a308-77cf-4f5c-9a16-15cb2083c3b8.png)
 
 change section can be used to increase expiry date of links and delete links 
 
