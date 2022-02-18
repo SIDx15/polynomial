@@ -2,6 +2,9 @@
 
 ####  To run the project
 ```bash
+npm i express
+```
+```bash
 npm start
 ```
 #### Tech stack used
