@@ -1,6 +1,6 @@
 # polynomial
 
-# npm start to run the project
+## npm start to run the project
 
 # Tech stack used
 
