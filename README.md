@@ -1,20 +1,20 @@
 # polynomial
 
-npm start to run the project
+# npm start to run the project
 
-Tech stack used
+# Tech stack used
 
-Node js
+  Node js
 
-Mongoose
+  Mongoose
 
-ejs
+  ejs
 
-express
+  express
 
-Mongo db
+  Mongo db
 
-the live website is deployed using heroku  https://poly-task.herokuapp.com/
+# the live website is deployed using heroku  https://poly-task.herokuapp.com/
 
 This is the homepage of my app on the right top corner there are options for new code display all the codes change the codes and log table to see which code was accessed when
 
