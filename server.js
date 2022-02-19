@@ -36,6 +36,11 @@ when`
     if(d>doc[i].date)
     {
       //console.log(i);
+      Log.deleteMany({ value: doc[i]._id }).then(function(){
+        console.log("Data deleted"); 
+    }).catch(function(error){
+        console.log(error); 
+    });
       Document.deleteOne({_id:doc[i]._id})
       .then(result=>{
         res.status(200).json({
