@@ -14,7 +14,7 @@ npm start
 - express
 - Mongo db
 
-#### The live website is deployed using heroku  https://poly-task.herokuapp.com/
+#### The live website is deployed using heroku  https://polynomial-task.herokuapp.com/all
 
 This is the homepage of my app on the right top corner there are options for new code display all the codes change the codes and log table to see which code was accessed when
 
